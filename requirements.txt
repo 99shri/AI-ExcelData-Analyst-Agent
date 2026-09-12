@@ -1,0 +1,6 @@
+openai-agents
+pandas
+openpyxl
+streamlit
+matplotlib
+python-dotenv
